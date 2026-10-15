@@ -18,6 +18,8 @@
   - [GitHub](https://github.com/againzeenox)
 - Aion
   - [YouTube](https://www.youtube.com/@aion-v2h)
+- AI Use Cases
+  - [YouTube](https://www.youtube.com/@aiusecases-cwk) 
 - A little more than an introduction to
   - [YouTube](https://www.youtube.com/channel/UCze6YPZo6gzj-Nup2P59KUA)
   - [GitHub](https://github.com/JonathanWoollett-Light/a-little-more-than-an-introduction-to)
